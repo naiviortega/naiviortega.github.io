@@ -25,8 +25,8 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
-  background-color: #00c3dd;
+  color: black;
+  background-color: #b6e4ff;
 }
 
 .seccion-clara {
@@ -52,6 +52,8 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
+  --bs-btn-bg: #b6e4ff;
+  --bs-btn-border-color: #b6e4ff;
   --bs-btn-hover-bg: white;
   --bs-btn-hover-border-color: black;
 }
@@ -84,7 +86,7 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #00c3dd !important;
+  color: #b6e4ff !important;
 }
 
 /* Sobre mi */
@@ -117,13 +119,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #00c3dd;
+  background-color: #b6e4ff;
 }
 
 .experiencia i {
   font-size: 2.5rem;
   color: white;
-  background-color: #00c3dd;
+  background-color: #b6e4ff;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -282,6 +284,7 @@ h1 {
 }
 
 .contacto .rectangulo {
+  color: white;
   margin-top: -5rem;
   background-color: rgb(0, 0, 0);
   border-radius: 10px;
