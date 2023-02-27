@@ -86,7 +86,7 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #b6e4ff !important;
+  color: #41b5eb !important;
 }
 
 /* Sobre mi */
@@ -118,7 +118,7 @@ h1 {
 }
 
 .experiencia .columna:hover {
-  color: white;
+  color: black;
   background-color: #b6e4ff;
 }
 
